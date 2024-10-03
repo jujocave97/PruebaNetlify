@@ -1,0 +1,26 @@
+body{
+    background-color: darkgrey;
+}
+
+#ppalContainer{
+    margin: 0%;
+    padding: 0px;
+    width: 100%;
+    top: 100%;
+    font-size: 35px;
+}
+
+#cabecera {
+    padding-left: 20%;
+    padding-right: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10%;
+    background-color: crimson;
+}
+
+img {
+    height: 7em;
+}
+
